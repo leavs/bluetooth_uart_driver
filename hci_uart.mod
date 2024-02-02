@@ -1,0 +1,2 @@
+/mnt/data/SourcesArchives/RK3568/buildroot-rk3568/scripts/sd-fuse/out/bluetooth_uart_driver/hci_ldisc.o /mnt/data/SourcesArchives/RK3568/buildroot-rk3568/scripts/sd-fuse/out/bluetooth_uart_driver/hci_h4.o /mnt/data/SourcesArchives/RK3568/buildroot-rk3568/scripts/sd-fuse/out/bluetooth_uart_driver/hci_rtk_h5.o /mnt/data/SourcesArchives/RK3568/buildroot-rk3568/scripts/sd-fuse/out/bluetooth_uart_driver/rtk_coex.o
+
